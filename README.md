@@ -1,5 +1,5 @@
 # Integrity-Driven-Federated-Learning
-This repository presents the implemetation of A Lightweight Integrity-Driven Federated Learning Approach to Mitigate Poisoning Attacks in IoT. The complete Jupyter Notebooks and dataset are shared for upcoming researchers to contribute to advancements in FL-based architectures.
+This repository presents the implemetation of A Lightweight Integrity-Driven Federated Learning Approach to Mitigate Poisoning Attacks in IoT. The complete Jupyter Notebook and dataset are shared for upcoming researchers to contribute to advancements in FL-based architectures.
 
 # A Lightweight Integrity-Driven Federated Learning Approach to Mitigate Poisoning Attacks in IoT
 **Link:** https://ieeexplore.ieee.org/abstract/document/11028863
@@ -23,7 +23,7 @@ In the proposed framework, we used A real time dataset "IDSIoT2024. It can be ac
 A detailed description of the dataset is available in the article.
 [A Real-World Dataset “IDSIoT2024” for Machine Learning/Deep Learning Based Cyber Attack Detection System for IoT Architecture](https://ieeexplore.ieee.org/document/10914935) <br>
 
-The preprocessed version of IDSIoTDataset can be accessed from Google Drive. <br>
+The preprocessed version of IDSIoT2024 Dataset can be accessed from Google Drive. <br>
 [Preprocessed IDSIoT2024 Dataset]: (https://drive.google.com/file/d/1-0asneuFTjrPi6eFwraOJjES0-nQCkDj/view?usp=drive_link)
 
 

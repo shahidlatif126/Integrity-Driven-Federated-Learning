@@ -1,4 +1,3 @@
-# Integrity-Driven-Federated-Learning
 This repository presents the implemetation of A Lightweight Integrity-Driven Federated Learning Approach to Mitigate Poisoning Attacks in IoT. The complete Jupyter Notebook and dataset are shared for upcoming researchers to contribute to advancements in FL-based architectures.
 
 # A Lightweight Integrity-Driven Federated Learning Approach to Mitigate Poisoning Attacks in IoT
